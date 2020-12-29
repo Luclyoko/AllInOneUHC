@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AllInOneUHC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AllInOneUHC_jar</output-path>
+    <root id="archive" name="AllInOneUHC.jar">
+      <element id="module-output" name="AllInOneUHC" />
+    </root>
+  </artifact>
+</component>
